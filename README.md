@@ -9,6 +9,8 @@
 
 <h3>🎨 Um pouco mais sobre mim:</h3>
 <p>Além do mundo da programação, sou entusiasta de design e adoro criar posts, logos e identidades visuais marcantes. </p>
+
+<br>
 </div>
 
 
