@@ -5,10 +5,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello!+Welcome+to+my+planet." alt="Typing SVG" /></a>
 
-<p align="left"> Olá! Meu nome é Rawana. Sou estudante de Ciência da Computação apaixonada por <br> tecnologia e inovação. Atualmente, meu foco está voltado para o desenvolvimento  <br> front-end e a linguagem Java, mas também tenho um grande interesse por  <br> bancos de dados e design.</p>
+<p align="left"> Olá! Meu nome é Rawana. Sou estudante de Ciência da Computação apaixonada por tecnologia e inovação. Atualmente, meu foco está voltado para o desenvolvimento front-end e a linguagem Java, mas também tenho um grande interesse por bancos de dados e design.</p>
 
 <h3>🎨 Um pouco mais sobre mim:</h3>
-<p>Além do mundo da programação, sou entusiasta de design e adoro criar posts, logos <br> e identidades visuais marcantes. </p>
+<p>Além do mundo da programação, sou entusiasta de design e adoro criar posts, logos e identidades visuais marcantes. </p>
 </div>
 
 
