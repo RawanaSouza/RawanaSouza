@@ -3,7 +3,7 @@
 
 <img align="right" alt="" width="350" src="https://pa1.aminoapps.com/6747/434048522591037e8ddfd5226d454f5d1e995487_hq.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hello!+Welcome+to+my+planet." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=&vCenter=&random=&width=435&lines=Hello!+Welcome+to+my+planet." alt="Typing SVG" /></a>
 
 <p align="left"> Olá! Meu nome é Rawana. Sou estudante de Ciência da Computação apaixonada por tecnologia e inovação. Atualmente, meu foco está voltado para o desenvolvimento front-end e a linguagem Java, mas também tenho um grande interesse por banco de dados e design.</p>
 
